@@ -16,12 +16,7 @@ Deliverable  3. Create a Travel Itinerary map.
 ### Retrieve weather data
 The app uses the NumPy dependency to generate 2,000 random sets of coordinates (latitude and longitude).\
 The Python's [citipy](https://github.com/wingchen/citipy) module is then called to identify the nearest city for each coordinate combination.\
-The weather data is retrieved for all identified cities through a request to the [OpenWeatherMap API](https://openweathermap.org/current).
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/92261511-279c8000-ee9f-11ea-96ba-4dd4fe033049.png"><br/>
-  Example of weather data retrieval 
-</p>
+The weather data is retrieved for all identified cities through a request to the [OpenWeatherMap API](https://openweathermap.org/current).  We ask the user to input the desired temperature.  In my case I selected 45F as the minimum temperature and 95 as the maximum temperature.
 
 ### Create a customer travel destinations map
 With Jupyter's gmaps plugin, user's weather preference inputs and requests to the [Google Maps and Places API](https://developers.google.com/places/web-service/search), the app generates a customer travel destinations map.
