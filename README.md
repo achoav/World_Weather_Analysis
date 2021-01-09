@@ -29,6 +29,7 @@ With Jupyter's gmaps plugin, user's weather preference inputs and requests to th
   http://localhost:8889/view/CLASS/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png
   ![plot](./CLASS/directory_2/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
   ![](Vacation_Search/WeatherPy_vacation_map.png)
+  <img src="Vacation_Search/WeatherPy_vacation_map.png">
   Destinations map 
 </p>
 
