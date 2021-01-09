@@ -34,6 +34,7 @@ With Jupyter's gmaps plugin, user's weather preference inputs and requests to th
 Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) the app generates a travel route between 4 cities selected by the user.
 
 <p align="center">
+  Travel Map
    <img src="Vacation_Itinerary/WeatherPy_travel_map.png">
   Travel map 
 </p>
