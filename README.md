@@ -39,6 +39,7 @@ Using [Google Maps Directions API](https://developers.google.com/maps/documentat
   Travel map 
 </p>
 <p align="center">
+  Travel map with markers  
   <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png">
   Travel map with markers 
 </p>
