@@ -1,5 +1,4 @@
 # World_Weather_Analysis
-# World_Weather_Analysis
 
 ## Project Overview
 PlanMyTrip app is a top travel technology company specialized in internet related services in the hotel and lodging industry.\
@@ -29,6 +28,7 @@ With Jupyter's gmaps plugin, user's weather preference inputs and requests to th
 <p align="center">
   http://localhost:8889/view/CLASS/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png
   ![plot](./CLASS/directory_2/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png)
+  https://github.com/achoav/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png?raw=true
   Destinations map 
 </p>
 
