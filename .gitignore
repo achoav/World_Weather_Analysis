@@ -1,5 +1,8 @@
 # exclude config.py
 config.py
+#exclude files
+VacationPy.ipynb
+WeatherPy.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
