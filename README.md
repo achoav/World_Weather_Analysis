@@ -27,12 +27,12 @@ With Jupyter's gmaps plugin, user's weather preference inputs and requests to th
 </p>
 
 ### Create a travel itinerary map
-Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) the app generates a travel route between 4 cities selected by the user.  In this case the user selected: 
-start_city = "La Baneza"'/
-city1 = "Saint-Francois"/
-city2 = "Palaikastron"/
-city3 = "Mobaye"/
-end_city = "La Baneza"/
+Using [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/overview) the app generates a travel route between 4 cities selected by the user.  In this case the user selected: <br />
+start_city = "La Baneza"<br />
+city1 = "Saint-Francois"<br />
+city2 = "Palaikastron"<br />
+city3 = "Mobaye"<br />
+end_city = "La Baneza"<br />
 
 <p align="center">
   Travel Map
