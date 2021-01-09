@@ -27,7 +27,6 @@ The weather data is retrieved for all identified cities through a request to the
 ### Create a customer travel destinations map
 With Jupyter's gmaps plugin, user's weather preference inputs and requests to the [Google Maps and Places API](https://developers.google.com/places/web-service/search), the app generates a customer travel destinations map.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68669675/92261527-2e2af780-ee9f-11ea-835c-d6c9a821d073.png">
   http://localhost:8889/view/CLASS/World_Weather_Analysis/Vacation_Search/WeatherPy_vacation_map.png
   Destinations map 
 </p>
