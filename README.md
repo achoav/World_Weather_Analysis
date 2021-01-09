@@ -32,7 +32,7 @@ start_city = "La Baneza - Spain"<br />
 city1 = "Saint-Francois -France"<br />
 city2 = "Palaikastron - Greece"<br />
 city3 = "Gracac - Croatia"<br />
-end_city = "La Baneza"<br />
+end_city = "La Baneza - Spain"<br />
 
 <p align="center">
   Travel Map
